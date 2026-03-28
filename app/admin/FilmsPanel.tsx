@@ -10,6 +10,7 @@ interface Film {
   description: string;
   thumbnail: string;
   videoUrl: string;
+  previewVideo: string;
   featured: boolean;
 }
 
@@ -20,6 +21,7 @@ const emptyFilm: Film = {
   description: "",
   thumbnail: "",
   videoUrl: "",
+  previewVideo: "",
   featured: false,
 };
 
@@ -220,6 +222,22 @@ function FilmForm({
           currentUrl={form.thumbnail}
           onUploaded={(url) => setForm({ ...form, thumbnail: url })}
         />
+
+        <div>
+          <label className="block text-sm font-medium text-[#5c554d] mb-1">
+            Preview Video URL (plays on hover, e.g. Pexels MP4)
+          </label>
+          <input
+            type="text"
+            value={form.previewVideo}
+            onChange={(e) => setForm({ ...form, previewVideo: e.target.value })}
+            placeholder="https://videos.pexels.com/video-files/..."
+            className={inputClass}
+          />
+          <p className="text-xs text-[#9b9389] mt-1">
+            Use a small MP4 file (SD/360p) for fast loading. Find free clips at pexels.com/videos
+          </p>
+        </div>
 
         <div>
           <label className="block text-sm font-medium text-[#5c554d] mb-1">

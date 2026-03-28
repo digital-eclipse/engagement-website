@@ -6,6 +6,7 @@
     "description": "A golden-hour engagement session through the streets of Distillery District. Maya and James met in a coffee shop three years ago, and their love has been brewing ever since. This film captures the quiet moments — the stolen glances, the laughter, the warmth between two people completely at home with each other.",
     "thumbnail": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
     "videoUrl": "",
+    "previewVideo": "/videos/smallgif.mp4",
     "featured": true
   },
   {
@@ -15,6 +16,7 @@
     "description": "Vineyard light and autumn colours set the stage for Priya and Dev's engagement film. There's something about the way they move together — effortless, joyful, like they've been dancing their whole lives. We followed them through the rows of vines as the sun painted everything gold.",
     "thumbnail": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=800&q=80",
     "videoUrl": "",
+    "previewVideo": "/videos/smallgif.mp4",
     "featured": true
   },
   {
@@ -24,6 +26,7 @@
     "description": "Lake water, pine trees, and a love that feels like coming home. Sarah and Alex chose the place where they had their first trip together for their engagement film. Every frame of this story is filled with the kind of quiet joy that only comes from truly knowing someone.",
     "thumbnail": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
     "videoUrl": "",
+    "previewVideo": "/videos/smallgif.mp4",
     "featured": true
   },
   {
@@ -33,6 +36,7 @@
     "description": "Country roads and wildflower fields — Nina and Marcus wanted their engagement film to feel like a daydream. We spent a late summer afternoon chasing the light through the county, and the result is something soft, warm, and deeply personal.",
     "thumbnail": "https://images.unsplash.com/photo-1591604466107-ec97de577aff?w=800&q=80",
     "videoUrl": "",
+    "previewVideo": "/videos/smallgif.mp4",
     "featured": false
   },
   {
@@ -42,6 +46,7 @@
     "description": "Mountain air and the first hints of fall. Emma and Liam are the kind of couple that makes everyone around them smile. Their engagement film is full of laughter, playfulness, and the kind of love that lights up a room — or a mountainside.",
     "thumbnail": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=800&q=80",
     "videoUrl": "",
+    "previewVideo": "/videos/smallgif.mp4",
     "featured": false
   },
   {
@@ -51,6 +56,7 @@
     "description": "Heritage architecture and winter light create a timeless backdrop for Aisha and Omar's love story. There's an elegance to the way they are together — graceful, intentional, deeply connected. This film is a celebration of that quiet beauty.",
     "thumbnail": "https://images.unsplash.com/photo-1545232979-8bf68ee9b1af?w=800&q=80",
     "videoUrl": "",
+    "previewVideo": "/videos/smallgif.mp4",
     "featured": false
   }
 ]
